@@ -80,8 +80,7 @@ const Nav = () => {
                 </>
               ) : (
                 <li className="nav-item">
-                  <Link
-                    to="/Login"
+                  <Link to="/Login"
                     className="icon text-decoration-none text-success"
                     style={{ padding: 5 }}
                   >
